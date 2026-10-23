@@ -18,6 +18,7 @@ models/*
 submissions/*
 !submissions/.gitkeep
 *.log
+2026_dl_lab3.pdf
 
 # Python
 __pycache__/
